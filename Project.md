@@ -1,0 +1,1 @@
+## este proyecto es una calculadora simple, que puede sumar, restar y chequear si un numero es primo
